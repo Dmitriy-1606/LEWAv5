@@ -274,5 +274,5 @@
     <string name="setting_flowhint_summary">При скачивании данных выводить всплывающие окна</string>
     <string name="songs_download">Скачать песни</string>
     <string name="Hearing_loss">Если Вы хотите снизить риск потери слуха, не слушайте музыку на высокой громкости в течение длительного времени</string>
-    <string name="more_menu">Еще</string>
+    <string name="playlist_exists">Плейлист уже существует. Пожалуйста, переименуйте</string>
 </resources>

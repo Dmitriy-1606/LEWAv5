@@ -163,8 +163,10 @@
     <string name="dreams_dock_launcher">Активация заставки экрана</string>
     <string name="status_bar_notification_inspect_item_title">О приложении</string>
     <string name="notifications_off_title">Уведомления отключены</string>
-    <string name="notifications_off_text">Нажмите здесь, чтобы снова включить уведомления.</string>
-    <string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически.</string>
+    <string name="notifications_off_text">Нажмите здесь, чтобы снова включить уведомления</string>
+    <string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически</string>
+    <string name="menu_actionbar_selected_items">%s выбрано</string>
+    <string name="lewa_status_bar_settings_battery_meter_format">%d</string>
     <string name="status_bar_settings_battery_meter_min_format">%d</string>
     <string name="poputip_title1">Это уведомление от</string>
     <string name="poputip_title2">Бан</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Инструменты на SIM</string>
-    <string name="appI_name">SIM1</string>
-    <string name="appII_name">SIM2</string>
+    <string name="app_name">Меню SIM</string>
+    <string name="appI_name">Меню SIM1</string>
+    <string name="appII_name">Меню SIM2</string>
     <string name="lable_not_available">"Приложение не установлено"</string>
     <string name="menu_end_session">Закончить сеанс</string>
     <string name="help">Справка</string>
@@ -15,7 +15,7 @@
     <string name="button_no">Нет</string>
     <string name="alphabet">Алфавит</string>
     <string name="digits">Цифры (0-9, *, #, +)</string>
-    <string name="default_call_setup_msg">Посылка вызова...</string>
+    <string name="default_call_setup_msg">Вызов...</string>
     <string name="stk_app_state">Состояние приложения</string>
     <string name="enable_app">Включено</string>
     <string name="disable_app">Отключено</string>
@@ -55,14 +55,14 @@
     <string name="lable_declare_service">Объявить службу</string>
     <string name="lable_set_frame">Установить кадр</string>
     <string name="lable_get_frame_status">Состояние кадра</string>
-    <string name="lable_retrieve_multimedia_message">Извлечь мультимедийное сообщение</string>
-    <string name="lable_submit_multimedia_message">Передать мультимедийное сообщение</string>
-    <string name="lable_display_multimedia_message">Отобразить мультимедийное сообщение</string>
+    <string name="lable_retrieve_multimedia_message">Извлечь MMS</string>
+    <string name="lable_submit_multimedia_message">Передать MMS</string>
+    <string name="lable_display_multimedia_message">Показать MMS</string>
     <string name="lable_activate">Включить</string>
     <string name="action_launch_browser">Запустить браузер</string>
     <string name="action_setup_call">Набор номера</string>
-    <string name="lable_busy_on_bip">Приложение занято BIP-командой, пожалуйста, попробуйте позже.</string>
-    <string name="main_menu_not_initialized">Главное меню не инициализировано</string>
-    <string name="lable_busy_on_call">Телефон занят звонком, пожалуйста, закончите разговор</string>
-    <string name="lable_on_flight_mode">Это приложение не может быть использовано в режиме полета</string>
+    <string name="lable_busy_on_bip">Приложение занято BIP-командами, повторите попытку позже</string>
+    <string name="main_menu_not_initialized">Главное меню не инициализируется</string>
+    <string name="lable_busy_on_call">Устройство занято вызовом, пожалуйста, вначале завершите вызов</string>
+    <string name="lable_on_flight_mode">Приложение нельзя использовать в режиме полета</string>
 </resources>

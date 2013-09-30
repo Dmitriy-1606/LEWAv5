@@ -489,15 +489,15 @@
     <string name="permlab_writeCalendar">Управление календарем</string>
     <string name="permdesc_writeCalendar">Приложение сможет добавлять, удалять и изменять мероприятия, доступные для редактирования на Вашем устройстве, включая мероприятия, добавленные другими людьми. Так приложение сможет рассылать сообщения от имени владельца календаря и изменять мероприятия без его ведома</string>
     <string name="permlab_accessMockLocation">Фиктивное местоположение</string>
-    <string name="permdesc_accessMockLocation">Приложение сможет создавать фиктивные местоположения для тестирования или установки нового источника геоданных и переопределять местоположение и/или статус, возвращаемые другими источниками, такими как система GPS</string>
+    <string name="permdesc_accessMockLocation">Приложение сможет создавать фиктивные местоположения для тестирования или установки нового источника данных о местоположении и переопределять местоположение и/или статус, возвращаемые другими источниками, такими как система GPS</string>
     <string name="permlab_accessLocationExtraCommands">Источник данных о местоположении</string>
     <string name="permdesc_accessLocationExtraCommands">Приложение получит доступ к дополнительным командам управления источниками данных о местоположении и сможет вмешиваться в работу системы GPS или других источников</string>
     <string name="permlab_installLocationProvider">Поставщик местоположения</string>
-    <string name="permdesc_installLocationProvider">Приложение сможет создавать фиктивные местоположения для тестирования или установки нового источника геоданных и переопределять местоположение и/или статус, возвращаемые другими источниками, такими как система GPS или службы геопозиционирования</string>
+    <string name="permdesc_installLocationProvider">Приложение сможет создавать фиктивные местоположения для тестирования или установки нового источника данных о местоположении и переопределять местоположение и/или статус, возвращаемые другими источниками, такими как система GPS или службы определения местоположения</string>
     <string name="permlab_accessFineLocation">Точное местоположение по GPS</string>
     <string name="permdesc_accessFineLocation">Приложение сможет определять Ваше точное местоположение, используя данные со спутников GPS. Для этого в настройках устройства должна быть включена соответствующая функция</string>
     <string name="permlab_accessCoarseLocation">Примерное местоположение</string>
-    <string name="permdesc_accessCoarseLocation">Приложение сможет определять Ваше примерное местоположение, используя различные источники геоданных (например, по координатам мобильной сети и точек доступа Wi-Fi). Для этого в настройках устройства должна быть включена соответствующая функция</string>
+    <string name="permdesc_accessCoarseLocation">Приложение сможет определять Ваше примерное местоположение, используя различные источники данных о местоположении (например, по координатам мобильной сети и точек доступа Wi-Fi). Для этого в настройках устройства должна быть включена соответствующая функция</string>
     <string name="permlab_accessSurfaceFlinger">Доступ к прорисовке окон</string>
     <string name="permdesc_accessSurfaceFlinger">Приложение сможет использовать низкоуровневые функции </string>
     <string name="permlab_readFrameBuffer">Считывание буфера фреймов</string>
@@ -766,15 +766,15 @@
     <string name="lockscreen_permanent_disabled_sim_message_short">SIM-карта непригодна к использованию</string>
     <string name="lockscreen_permanent_disabled_sim_instructions">"SIM-карта окончательно заблокирована.
 Чтобы получить новую, обратитесь к своему оператору."</string>
-    <string name="lockscreen_transport_prev_description">Кнопка перехода к предыдущему треку</string>
-    <string name="lockscreen_transport_next_description">Кнопка перехода к следующему треку</string>
+    <string name="lockscreen_transport_prev_description">Кнопка перехода к предыдущей песне</string>
+    <string name="lockscreen_transport_next_description">Кнопка перехода к следующей песне</string>
     <string name="lockscreen_transport_pause_description">Кнопка паузы</string>
     <string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
     <string name="lockscreen_transport_stop_description">Кнопка выключения</string>
     <string name="emergency_calls_only">Только экстренные вызовы</string>
     <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
-    <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">Ознакомьтесь с руководством пользователя или свяжитесь со службой поддержки.</string>
+    <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью PUK-кода</string>
+    <string name="lockscreen_sim_puk_locked_instructions">Ознакомьтесь с руководством пользователя или свяжитесь со службой поддержки</string>
     <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали графический ключ. 
@@ -921,8 +921,8 @@
     <string name="permdesc_setAlarm">Приложение сможет настраивать будильник. Функция поддерживается не во всех программах.</string>
     <string name="permlab_addVoicemail">Добавление голосовых сообщений</string>
     <string name="permdesc_addVoicemail">Приложение сможет добавлять голосовые сообщения в папку \"Входящие\".</string>
-    <string name="permlab_writeGeolocationPermissions">изменение прав доступа к геоданным в браузере</string>
-    <string name="permdesc_writeGeolocationPermissions">Приложение сможет изменять настройки доступа к геоданным в браузере. Вредоносные программы смогут таким образом отправлять информацию о местоположении на любые веб-сайты.</string>
+    <string name="permlab_writeGeolocationPermissions">изменение прав доступа к данным о местоположении в браузере</string>
+    <string name="permdesc_writeGeolocationPermissions">Приложение сможет изменять настройки доступа к данным о местоположении в браузере. Вредоносные программы смогут таким образом отправлять информацию о местоположении на любые веб-сайты.</string>
     <string name="permlab_packageVerificationAgent">проверять пакеты</string>
     <string name="permdesc_packageVerificationAgent">Приложение сможет проверять возможность установки пакетов.</string>
     <string name="permlab_bindPackageVerifier">связываться с верификатором пакетов</string>
@@ -1393,6 +1393,6 @@
     <string name="user_switched">Выбран аккаунт пользователя %1$s.</string>
     <string name="owner_name">Владелец</string>
     <string name="storage_phone">Внутреннее хранилище</string>
-    <string name="storage_external_usb">Внешнее хранилище USB</string>
+    <string name="storage_external_usb">Внешнее USB-хранилище</string>
     <string name="zz_keyguard_accessibility_voice_unlock">Разблокировка голосом.</string>
 </resources>

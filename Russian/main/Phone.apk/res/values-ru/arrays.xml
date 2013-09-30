@@ -374,10 +374,12 @@
         <item>Тон</item>
         <item>Пианино</item>
         <item>Гитара</item>
+        <item>Тихо</item>
     </string-array>
     <string-array name="dialpad_tone_type_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+        <item>3</item>
     </string-array>
 </resources>

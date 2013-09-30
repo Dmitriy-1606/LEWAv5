@@ -86,18 +86,18 @@
     <string name="bluetooth_pan_GN_connect_fail">Ошибка соединения Group Ad-hoc Network с %1$s !</string>
     <string name="bluetooth_pan_NAP_connect_ok">Соединение Network Access Points с %1$s успешно!</string>
     <string name="bluetooth_pan_NAP_connect_fail">Ошибка соединения Network Access Points с %1$s !</string>
-    <string name="bluetooth_pan_NAP_unavailable">Сервис Network Access Points с %1$s недоступен</string>
+    <string name="bluetooth_pan_NAP_unavailable">Служба Network Access Points с %1$s недоступна</string>
     <string name="bluetooth_pan_GN_disconnect_ok">Отключение Group Ad-hoc Network с %1$s успешно!</string>
     <string name="bluetooth_pan_GN_disconnect_fail">Ошибка отключения Group Ad-hoc Network с %1$s !</string>
     <string name="bluetooth_pan_NAP_disconnect_ok">Отключение Network Access Points с %1$s успешно!</string>
     <string name="bluetooth_pan_NAP_disconnect_fail">Ошибка отключения Network Access Points с %1$s !</string>
     <string name="bluetooth_pan_GN_disconnect_ind">Отключение Group Ad-hoc Network с %1$s !</string>
     <string name="bluetooth_pan_NAP_disconnect_ind">Отключение Network Access Points с %1$s !</string>
-    <string name="bluetooth_pan_server_settings">Выбор сервиса Bluetooth PAN</string>
+    <string name="bluetooth_pan_server_settings">Выбор службы Bluetooth PAN</string>
     <string name="bluetooth_pan_nap_enable_title">Network Access Points</string>
-    <string name="bluetooth_pan_nap_enable_summary">Выберите для вкл. или выкл. сервиса NAP</string>
+    <string name="bluetooth_pan_nap_enable_summary">Выберите для вкл. или выкл. службы NAP</string>
     <string name="bluetooth_pan_gn_enable_title">Group Ad-hoc Network</string>
-    <string name="bluetooth_pan_gn_enable_summary">Выберите для вкл. или выкл. сервиса GN</string>
+    <string name="bluetooth_pan_gn_enable_summary">Выберите для вкл. или выкл. службы GN</string>
     <string name="bluetooth_pbap_server">BT-доступ к адресной книге</string>
     <string name="bluetooth_pbap_server_authorize_notify_ticker">Запрос доступа Bluetooth PBAP</string>
     <string name="bluetooth_pbap_server_auth_chall_notify_ticker">Запрос авторизации Bluetooth PBAP</string>
@@ -116,7 +116,7 @@
     <string name="app_label">Bluetooth</string>
     <string name="app_description">Пакет профиля Bluetooth</string>
     <string name="bt_base_activity_busy_message">Загружается...</string>
-    <string name="bt_base_activity_service_disconnected">Сервис отключен!</string>
+    <string name="bt_base_activity_service_disconnected">Служба отключена!</string>
     <string name="bt_base_profile_feature_disabled">Нельзя использовать отключенные функции Bluetooth.</string>
     <string name="bt_share_mgmt_tab_in_title">Скачать</string>
     <string name="bt_share_mgmt_tab_out_title">Закачать</string>
@@ -134,5 +134,5 @@
     <string name="bt_share_openfile_message_invalid_param">Неправильный файл: %1$s (%2$s)</string>
     <string name="bt_share_openfile_message_unsupported_type">Неподдерживаемый тип файла: %1$s</string>
     <string name="bt_share_openfile_message_resource_not_found">Файл не найден: %1$s</string>
-    <string name="bt_share_openfile_confirm">OK</string>
+    <string name="bt_share_openfile_confirm">OK</string>	
 </resources>

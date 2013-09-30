@@ -1263,10 +1263,11 @@
     <string name="storage_dialog_mms_size">"Размер MMS: "</string>
     <string name="error_add_attachment">Неизвестная ошибка, невозможно добавить %1$s в сообщение.</string>
     <string name="no_application_response">Нет приложений для обработки запроса</string>
-    <string name="label_loaderframent">Контакты</string>
+    <string name="label_loaderframent">Контакт</string>
     <string name="label_mmsframent">Сообщения</string>
     <string name="label_calllogframent">Вызовы</string>
     <string name="label_updatefragment">Подробности обновления</string>
+    <string name="label_loaderframents">Информация о контакте</string>
     <string name="label_calllog">Вызовы</string>
     <string name="label_allcontacts">Все контакты</string>
     <string name="label_mms">MMS</string>
@@ -1283,7 +1284,9 @@
     <string name="title_contacts_settings">Настройка</string>
     <string name="title_stick_photo">Изменить фото контакта</string>
     <string name="prompt_no_contacts_pepole">У вас нет контакта</string>
-    <string name="login_lewa_account">Зайти в LeWa-аккаунт</string>
+    <string name="prompt_no_contacts_people_propose">"Вы можете импортировать контакты с SIM-карты 
+   или с другого места хранения"</string>
+   <string name="login_lewa_account">Зайти в LeWa-аккаунт</string>
     <string name="prompt_contact_myself">Я</string>
     <string name="prompt_no_profile_data">Вы не добавили полную информацию в визитную карточку</string>
     <string name="edit_my_card">Изменить мою визитную карточку</string>
@@ -1326,6 +1329,9 @@
     <string name="send_message">Отправить сообщение</string>
     <string name="dialpad_showdialpad">Показать номеронабиратель</string>
     <string name="call_dialpad_setting">Настройки номеронабирателя</string>
+    <string name="dialer_search_item_misscall_time">%s гудка(ов)</string>
+    <string name="dialpad_to_text">вызов</string>
+    <string name="call_log_clear_all">Очистить журнал вызова</string>
     <string name="mms_select_contacts_group_count">контакты</string>
     <string name="mms_select_contacts_recent_contacts">последние контакты</string>
     <string name="message_compose_menu_resend_label">Переслать</string>
@@ -1380,6 +1386,8 @@
     <string name="sms_import_sdcard">Импорт SMS c: %s</string>
     <string name="sms_export_sdcard">Экспорт SMS на: %s</string>
     <string name="sms_whether_export_item">Вы хотите экспортировать на: %s?</string>
+    <string name="message_send_fail_view">отправка не удалась</string>
+    <string name="message_send_of_late">позже</string>
     <string name="prefs_ims_settings">Настройки избранных сообщений</string>
     <string name="prefs_ims_close_title">Бесплатный сервис SMS</string>
     <string name="prefs_ims_close_title_summary">Включите для бесплатных SMS, фото, голосовых и видео сообщений</string>
@@ -1525,4 +1533,7 @@
     <string name="dlg_title_ippref_notset">Не открывать IP-вызов</string>
     <string name="dlg_msg_ippref_tosetting">Открыть в IP-вызове!</string>
     <string name="ipsetting_no_sim_card">Нет SIM-карты, чтобы настроить IP-вызов</string>
+    <string name="hint_findAllContacts">Поиск среди %s контактов</string>
+    <string name="company_info">Компания</string>
+    <string name="group_entry_item">Группы контактов</string>
 </resources>

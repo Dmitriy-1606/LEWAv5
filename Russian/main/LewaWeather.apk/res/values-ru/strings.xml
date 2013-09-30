@@ -57,6 +57,8 @@
     <string name="sorry_not_insert">Извините, но больше нельзя добавить городов</string>
     <string name="location_wait">Определение местоположения, ожидайте...</string>
     <string name="widget_transparent">Погода Lewa (прозр.)</string>
+    <string name="widget_v5">Погода Lewa</string>
+
 
 
 
@@ -67,6 +69,13 @@
     <string name="zhouwu">пятница</string>
     <string name="zhouliu">суббота</string>
     <string name="zhouri">воскресенье</string>
+    <string name="v5_nolocation">Нет местоположения</string>
+    <string name="v5_add_city">Нажмите для установки</string>
+    <string name="v5_excellent">excellent</string>
+    <string name="v5_good">good</string>
+    <string name="v5_excellent_build">excellent</string>
+    <string name="v5_good_build">good</string>
+    <string name="time_v5">Время</string>
     <string name="weather_hot_city">Рекоменд.города</string>
     <string name="weather_search_city">Результаты</string>
     <string name="weather_weather_waiting">Обновление данных, пожалуйста, подождите...</string>
