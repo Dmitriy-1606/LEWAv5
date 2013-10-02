@@ -1263,7 +1263,7 @@
     <string name="storage_dialog_mms_size">"Размер MMS: "</string>
     <string name="error_add_attachment">Неизвестная ошибка, невозможно добавить %1$s в сообщение.</string>
     <string name="no_application_response">Нет приложений для обработки запроса</string>
-    <string name="label_loaderframent">Контакт</string>
+    <string name="label_loaderframent">Контакты</string>
     <string name="label_mmsframent">Сообщения</string>
     <string name="label_calllogframent">Вызовы</string>
     <string name="label_updatefragment">Подробности обновления</string>
