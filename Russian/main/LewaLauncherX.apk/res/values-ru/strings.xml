@@ -120,7 +120,7 @@
     <string name="system_tool_folder">Утилиты</string>
     <string name="system_secrity_folder">Система</string>
     <string name="new_rom_hint">Новый</string>
-    <string name="add_widget">Добавить виджетt</string>
+    <string name="add_widget">Добавить виджет</string>
     <string name="folder_not_empty_hint">Папка не пустая. Пожалуйста, попробуйте позже после ее очистки</string>
     <string name="image_content">содержание изображения</string>
     <string name="ok">ОК</string>
