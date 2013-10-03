@@ -55,7 +55,7 @@
     <string name="title_select_application">Выбрать приложение</string>
     <string name="menu_theme">Темы</string>
     <string name="menu_wallpaper">Обои</string>
-    <string name="menu_settings">Параметры системы</string>
+    <string name="menu_settings">Настройки системы</string>
     <string name="cab_menu_delete_app">Удаление приложения</string>
     <string name="cab_menu_app_info">Детали приложения</string>
     <string name="cab_app_selection_text">1 приложение выбрано</string>
