@@ -2431,7 +2431,7 @@
     <string name="device_cpu">"Процессор： "</string>
     <string name="device_memory">"Память "</string>
     <string name="device_system_memory">"Системная память： "</string>
-    <string name="internal_memory_available">"Внутреннее хранилище： "</string>
+    <string name="internal_memory_available">"Встроенный накопитель： "</string>
     <string name="sdcard_available">"SD-карта： "</string>
     <string name="system_tutorial_list_item_title">Учебник по системе</string>
     <string name="system_tutorial_list_item_summary">Узнайте, как пользоваться телефоном</string>
